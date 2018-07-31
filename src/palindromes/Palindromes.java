@@ -1,7 +1,15 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Group 3
+ * Programming Exercise 13.8
+ * Design and implement a program that prompts
+ * the user to enter a string and then performs
+ * two palindrome tests. The first should use a 
+ * single stack to test whether the string is a 
+ * palindrome. The second should use two stacks 
+ * to test whether the string is a palindrome when
+ * capitalization, spaces, punctuation, and other 
+ * non-alphanumeric characters are ignored. The 
+ * program should print the results of both tests.
  */
 package palindromes;
 
