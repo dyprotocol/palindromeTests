@@ -1,0 +1,5 @@
+To update Palindrome UML xml file:
+
+1. Go to www.draw.io
+2. Drag the xml file onto the website
+3. Edit as needed
